@@ -119,6 +119,11 @@ body, html {
     margin-top: 50px;
 
   }
+  .crush2 {
+    font-size: 12px;
+    min-width: 300px;
+    margin-top: 65px;
+  }
 }
 
 .infobar {
@@ -164,6 +169,18 @@ body, html {
   left: 50%;
   transform: translate(-50%, -50%);
   text-align: center;
-  top: 42%;
+  top: 44%;
+  width: 60%;
+
+}
+
+.crush2 {
+  color: rgb(255, 255, 255);
+  background-color: #8a0d6f;
+  position: absolute;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+  top: 58%;
   width: 60%;
 }
